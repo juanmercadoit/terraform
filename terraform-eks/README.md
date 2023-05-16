@@ -1,8 +1,9 @@
-# terraform
+# Terraform
 
-# Infrastructure As Code for AWS. 
+# Infrastructure As Code for AWS. :rocket:
 * In this repository you can find evolutive code for only test enviroment or POC's. 
 * Please, don´t implement in to Production.
+* There aren´t modules in this step.
 
 ## Todo List.
 
