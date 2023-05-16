@@ -1,7 +1,7 @@
 # terraform
 
 # Infrastructure As Code for AWS. 
-*  In these repository you can find evolutive code for only test enviroment or POC's. 
+* In this repository you can find evolutive code for only test enviroment or POC's. 
 * Please, don´t implement in to Production.
 
 ## Todo List.
